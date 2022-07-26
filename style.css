@@ -1,0 +1,24 @@
+ *{
+    body{
+        background-color: black; 
+    }!important
+ }
+ .section-1st{
+    background-color: #fceae8;
+}
+.money{
+    color: #ff2c7f;
+    margin-bottom: 1rem;
+}
+.button-color{
+    background-color: #ff2c7f;
+}
+.bg-1{
+    background-color: #ffa500;
+}
+.bg-2{
+    background-color: #da70d6;
+}
+.bg-3{
+    background-color: #0000ff;
+}
